@@ -1,0 +1,53 @@
+#essy {
+  color:orange;
+  text-align: center;
+}
+#ink {
+  color:teal;
+  text-align: center;
+}
+#my-name {
+  color:orange;
+  text-align: center;
+}
+#margy {
+  color:teal;
+  text-align: center;
+}
+.my-photo {display:block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 500px;
+}
+h1::first-letter {
+font-size: 200%;
+color:teal;
+}
+#button {
+  display:block;
+  border-radius: 5px;
+  font size:20px;
+  font-weight: bold;
+  text-decoration: inherit;
+  background color: orange;
+  text-align: center;
+  height: 50px;
+  width:200px;
+  opacity:0.9;
+
+}
+#button:hover {
+  background-color: green;
+  text-align: center;
+  border:none;
+  color:red;
+  height: 100px;
+  width:400px;
+  font-size: 40px;
+}.my-photo {
+  height:400px;
+  width:300px;
+}
+#my-name:hover {
+  color:teal;
+}
